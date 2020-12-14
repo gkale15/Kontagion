@@ -1,2 +1,2 @@
 # Kontagion
-video game winter 2019
+video game about fighting a worldwide virus done in winter 2019 before the pandemic
